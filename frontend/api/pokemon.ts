@@ -1,9 +1,9 @@
 const pokemons: string[] = [
-    'https://pokeapi.co/api/v2/pokemon/ditto'
-  ]
+  'https://pokeapi.co/api/v2/pokemon/ditto'
+]
 
-  export const getPokemonURL = ()=> {
-    return pokemons[0]
-  }
+export const getPokemonURL = () => {
+  return pokemons[0]
+}
 
-  export default {};
+export default {}

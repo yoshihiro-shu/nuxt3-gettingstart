@@ -1,7 +1,7 @@
 <template>
-    <div class="">
-        pokemon: {{ pokemon }}
-    </div>
+  <div class="">
+    pokemon: {{ pokemon }}
+  </div>
 </template>
 
 <script setup>

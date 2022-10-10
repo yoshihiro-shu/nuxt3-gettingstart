@@ -1,5 +1,5 @@
 <template>
-    <div class="">
-        it is article
-    </div>
+  <div class="">
+    it is article
+  </div>
 </template>

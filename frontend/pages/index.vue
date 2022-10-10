@@ -1,5 +1,5 @@
 <template>
-    <div class="">
-        it is top page
-    </div>
+  <div class="">
+    it is top page
+  </div>
 </template>

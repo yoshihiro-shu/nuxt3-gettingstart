@@ -1,5 +1,5 @@
 <template>
-    <div>
-        it is about.vue
-    </div>
+  <div>
+    it is about.vue
+  </div>
 </template>
