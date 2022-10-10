@@ -6,5 +6,8 @@ export default defineNuxtConfig({
     plugins: [
       eslintPlugin()
     ]
-  }
+  },
+  modules: [
+    '@nuxtjs/tailwindcss',
+  ]
 })
