@@ -6,9 +6,9 @@
     <NuxtPage />
     <div class="container mx-auto flex flex-wrap py-6">
       <Article />
-      <Sidebar />
+      <SideBar />
     </div>
-    <footer />
+    <Footer />
   </div>
 </template>
 
